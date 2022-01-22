@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"diaSemanaTexto"
+			],
+			[
+				"dat",
+				"dateStyle"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"forma",
+				"formatarDiaSemana"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"form",
+				"formatarHora"
+			],
+			[
+				"for",
+				"formatarData"
+			],
+			[
+				"cl",
+				"classificacao"
+			],
+			[
+				"class",
+				"classificacoes"
+			],
+			[
+				"ge",
+				"getImc"
+			],
+			[
+				"alt",
+				"altura"
+			],
+			[
+				"--p",
+				"--primary-color-dark"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Dart/Support/Dart.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/livia/Documentos/programacao/cursos/js/aula48/assets/js/main.js",
+		"/home/livia/Documentos/programacao/cursos/js/aula48/index.html",
+		"/home/livia/Documentos/programacao/cursos/js/aula48/teste.dart",
+		"/home/livia/Documentos/programacao/cursos/js/aula46/index.js",
+		"/home/livia/Documentos/programacao/cursos/js/aula46/index.html",
+		"/home/livia/Documentos/programacao/cursos/js/aula44/assets/css/style.css",
+		"/home/livia/Documentos/programacao/cursos/js/aula44/assets/js/main.js",
+		"/home/livia/Documentos/programacao/cursos/js/aula34/js/script.js",
+		"/home/livia/Documentos/programacao/cursos/js/aula44/anotacoes.md",
+		"/home/livia/Documentos/programacao/cursos/js/aula44/index.html",
+		"/home/livia/Documentos/programacao/cursos/js/aula34/index.html",
+		"/home/livia/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/livia/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/livia/.config/sublime-text/Packages/User/Terminal.sublime-settings",
+		"/home/livia/Documentos/programacao/cursos/js/modelo/assets/css/style.css",
+		"/home/livia/Documentos/base/build/web/package.json",
+		"/home/livia/Documentos/base/build/web/app.js",
+		"/home/livia/Documentos/testando-imagem/index.html",
+		"/home/livia/Documentos/testando-imagem/style.css",
+		"/home/livia/Downloads/payflow/lib/modules/login/login_page.dart",
+		"/home/livia/Documentos/estagio/modificacoes-landing-page/style.css",
+		"/home/livia/Documentos/counter_app/lib/main.dart"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" );"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Dart/Support/Dart - Pubspec.sublime-build",
+	"project": "expense.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
