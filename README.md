@@ -1,4 +1,5 @@
 ## dev.finances
+markdown ![GitHub Logo](assets/img/logo.png)
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída
 
