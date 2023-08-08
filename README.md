@@ -1,7 +1,7 @@
 # dev.finances
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída<br><br>
-<https://liviatec.github.io/dev.finence/>
+<https://liviaaraujo-dev.github.io/dev.finence/>
 
 ## Tecnologias
 
